@@ -1,3 +1,6 @@
 ==== A collection of interesting javascript snippets that we are working on ;-) ====
 
 1) progres_bar -- A Jquery based progress bar class
+
+2) star_rating/* -- A star rating JS widget based on prototype's slider.js
+   *) This approach uses a single image which is used to render all there cases of stars (full, half full, empty) using percentage based background-positioning.
