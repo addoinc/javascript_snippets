@@ -6,3 +6,5 @@
    *) This approach uses a single image which is used to render all there cases of stars (full, half full, empty) using percentage based background-positioning.
 
 3) tab_widget/* -- A widget to create tabs for your links with content in the same page
+
+4) text_limiter/* -- A widget that dynamically tracks the number of characters that can be typed in a textarea/box. Uses an html attribute named: maxlength. Refer to text_limiter/index.html for example.
